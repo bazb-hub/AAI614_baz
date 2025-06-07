@@ -1,0 +1,3 @@
+# AAI614_baz
+Course AAI614 Repository
+THIS IS THE README FILE FOR THIS REP
